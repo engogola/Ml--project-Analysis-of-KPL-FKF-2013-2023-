@@ -1,13 +1,18 @@
 # Ml--project-Analysis-of-KPL-FKF-2013-2023
+
 The  FKF -KPL was formed in 1963 ,This project aims at analsysis  of teams betwwen the seasons 2013 to 2023
-Problem statement
+
+# Problem statement
+
 This is a Machine learning project that predicts the number of wins for each team in the Kenya Premier League (KPL).The project wishes to do anlysis of the last 10 seasons in Kenya premier league (2013-2023)
 Do a webscarpping to obtain the datasets for the 10 seasons.
 
 The data was obtained from https://www.fctables.com/kenya/premier-league/ and https://en.wikipedia.org/wiki/Kenyan_Premier_League
 credits to @Edwin Mbugua for insights 
 overview of the datasets 
-Data Dictionary
+
+# Data Dictionary
+
 
 Team — Name of the team playing in the Kenya premium league
 GP — The number of games played by a specific team
@@ -29,7 +34,9 @@ Which Team had the most number of Wins over the last 10 seasons.
 5. Top 10 Teams by goals scored 2013–2023.
 6. Top 10 Teams by goals conceded 2013–2023
 7. Who are the top scorers across the seasons.
-Summary
+
+# Summary
+
 1.Gor Mahia is the team that have had the most league titles at 7 over the last 10 seasons,Tusker FC comes second with 2 league titles and Kamamega Homeboyz and Posta Rangers have each won once over the last 10 seasons.
 
 2.The 2019/2020 season started on 30 August 2019, but was suspended in March 2020 due to the COVID-19 pandemic, and the final table was determined by the table at the half-way point of the season.
